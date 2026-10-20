@@ -23,7 +23,7 @@ An aspiring developer passionate about learning new technologies, building proje
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Mohammad Faizul Wafi](https://linkedin.com/in/your-username)
-- **Email:** `your.email@example.com`
+- **Email:** `mohammadfaizulwafi@graduate.utm.my`
 
 <!--
 **FaizulWafi/FaizulWafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
