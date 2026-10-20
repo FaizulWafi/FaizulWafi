@@ -22,7 +22,7 @@ An aspiring developer passionate about learning new technologies, building proje
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Mohammad Faizul Wafi](www.linkedin.com/in/mohammad-faizul-wafi-bin-safarudin-435957443)
+- **LinkedIn:** [Mohammad Faizul Wafi](https//www.linkedin.com/in/mohammad-faizul-wafi-bin-safarudin-435957443)
 - **Email:** `mohammadfaizulwafi@graduate.utm.my`
 
 <!--
