@@ -15,7 +15,7 @@ An aspiring developer passionate about learning new technologies, building proje
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** HTML, CSS, JavaScript *(Add your languages here)*
+- **Languages:** C++,Python
 - **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
